@@ -1,0 +1,183 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	direction: rtl;
+	width: 100%;
+	height: 1200px;
+	background-color: #666;
+}
+
+.form{
+
+	left: 0;
+	right: 0;
+	margin-left: auto;
+	margin-right: auto;
+	border: solid 4px #F9F9F9;
+	width: 80%;
+	height: 800px;
+	margin-top: 80px;
+}
+.img{
+	border-radius: 50%;
+	margin-top: 10px;
+}
+.logo img{
+	width: 60px;
+	height: 60px;
+	padding: 10px;
+}
+.titr{
+	
+	width: 121px;
+	height: 30px;
+	color: #f9f9f9;
+    margin-right: 88%;
+}
+.R1{
+display: flex;
+}
+.R1 input{
+	border-radius: 15px;
+	margin-left: 90px;
+}
+.r1-1{
+	width: 20%;
+	height: 40px;
+	margin-right: 70px;
+}
+.r1-2{
+		width: 20%;
+	height: 40px;
+	
+}
+.r1-3{
+	width: 30%;
+	height: 40px;
+	 
+}
+.r2-1{
+	width: 20%;
+	height: 40px;
+	margin-right: 70px;
+	border-radius: 15px;
+	margin-top: 40px;
+	
+}
+.R3{
+display: flex;
+	margin-top: 40px;
+}
+.R3 input{
+	border-radius: 15px;
+	margin-left: 90px;
+}
+.r3-1{
+	width: 20%;
+	height: 40px;
+	margin-right: 70px;
+	margin-top: 20px;
+}
+.r3-2{
+		width: 20%;
+	height: 40px;
+	margin-top: 20px;
+}
+
+.r3-3{
+	width: 250%;
+	height: 40px;
+}
+.r3-3 select{
+	border-radius: 15px;
+	
+}
+.R4{
+	display: flex;
+	margin-top: 40px;
+}
+
+.r4-1 .uk-select{
+	margin-right: 70px;
+	 width: 215px;
+	height: 40px;
+	border-radius: 15px;
+}
+.r4-2 .uk-select{
+	 width: 215px;
+	height: 40px;
+    margin-right: 90px;
+	border-radius: 15px;
+}
+.r4-3{
+	    width: 29%;
+    height: 40px;
+    margin-right: 90px;
+    border-radius: 15px;
+}
+	
+.r5-1{
+    width: 86%;
+    height: 40px;
+    margin-right: 65px;
+    border-radius: 15px;
+    margin-top: 40px;
+}
+.R6{
+	display: flex;
+}
+.r6-1{
+	width: 25%;
+	height: 40px;
+	margin-right: 70px;
+	margin-top: 40px;
+	border-radius: 15px;
+}
+.R6 button{
+	width: 140px;
+    height: 50px;
+    margin-top: 30px;
+    margin-right: 510px;
+	border-radius: 30px;
+}
+.R7 h3{
+	margin-right: 70px;
+	margin-top: 40px;color: #f9f9f9;
+}
+.R8{
+	display: flex;
+}
+.R8 img{
+	width: 150px;
+	height: 150px;
+	margin-right: 50px;
+	border-radius: 15px;
+}
+.submit{
+    background-color: #02D700;
+    color: white;
+	
+    width: 25%;
+    height: 50px;
+    margin-right: 180px;
+    margin-top: 40px;
+    border-radius: 30px;
+}
+.butoon{
+	width: 100%;
+	height: 40px;
+	background-color: #5100FC;
+	color: white;
+}
+.p{
+	text-align: center;
+}
+.uk-modal-body{
+	width: 400px;
+	height: 200px;
+	border-radius: 20px;
+}
+
+
+
+
